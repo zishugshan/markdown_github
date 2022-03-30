@@ -7,7 +7,6 @@
 
 ``` javascript 
 function openSourceContribution (){
-let date = 30.03.2022;
-console.log("I started to contribute in open source,today "+ date);
+console.log("I started to contribute in open source,today");
 }
 ```
