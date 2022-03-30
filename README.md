@@ -1,3 +1,4 @@
 ## markdown_github
 
-#### Markdown is used in github to make your comments readable and beautiful.
+> Markdown is used in github to make your comments readable and beautiful.
+> It makes your comments outstanding.
