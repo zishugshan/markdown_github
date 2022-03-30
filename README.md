@@ -23,4 +23,4 @@ git commit
 ```
 
 Here is a sample markdown used pages[^1].
-[^1]: reference
+[^1]: [reference]()
