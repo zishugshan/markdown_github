@@ -13,3 +13,11 @@ console.log("I started to contribute in open source,today");
 
 ☕ __Eat Sleep and Code__
   ~~NO CLASSES~~
+
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
