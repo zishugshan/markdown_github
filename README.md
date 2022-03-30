@@ -21,3 +21,6 @@ git status
 git add
 git commit
 ```
+
+Here is a sample markdown used pages[^1].
+[^1]: reference
